@@ -1,16 +1,21 @@
-## Hi there 👋
+### Olá Bem Vindo Ao Meu Perfil 🖤
 
-<!--
-**DOMINGUES14/DOMINGUES14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu Nome é Matheus Eduardo 
 
-Here are some ideas to get you started:
+- Estou Estudando Na [Alura](https://www.alura.com.br)
+  - Sou Medalhista Na Oliempiada De Matematica
+  - Estudando JavaScript
+  - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+ 
+    ### Você Pode Entrar E Contato Comigo 📧
+    matheusdomingues422@gmail.com
+    
+  ### Redes Sociais
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - Instagram
+    matheusdomingues422
+
+  - Facebook
+    Matheus Domingues
+
+    ![](https://media1.tenor.com/m/Cuu-B33YBJcAAAAC/tim%C3%A3o.gif)
